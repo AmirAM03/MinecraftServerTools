@@ -1,0 +1,3 @@
+send player2 bedwars
+send player1 bedwars
+send player3 bedwars

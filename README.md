@@ -1,2 +1,73 @@
-# MinecraftServerTools
-Various useful scripts and tools written in Python, designed for Minecraft server deployment and maintenance. I developed these tools for specific purposes in one of my projects, so their use cases strongly depend on your situation. However, you can edit and customize each tool to suit your needs, or simply use them as a source of inspiration
+# Minecraft Server Tools
+
+Various useful scripts and tools, designed and developed for Minecraft server deployment and maintenance. 
+
+I developed these tools for specific purposes in one of my projects, so their use cases strongly depend on your situation. However, you can edit and customize each tool to suit your needs, or simply use them as a source of inspiration.
+
+Each folder includes a complete description in a markdown file named `guideline`.
+
+---
+
+## Project Overview
+
+This repository contains multiple tools aimed at maintaining and developing Minecraft server infrastructure. My primary goal in creating this repository was to store various tools I developed for future use, either by myself or others.
+
+### Background of My Project
+
+In a large-scale Minecraft server development project, I was responsible for setting up and fully managing a Minecraft server. Due to the specific needs of the project, I required tools to:
+
+- Periodically update the whitelist from a categorized **Google Sheet**.
+- Route a limited number of players to other backend servers via a **ProxyServer**.
+
+Given the high number of players and the scale of the project, I needed to develop certain tools to streamline and automate these processes. 
+
+### Telegram Integration
+
+Since **Telegram** is the most widely used social media platform in my country, I often aim to connect automation tools to Telegram bots. These bots allow team members to interact with the tools and make changes to the server as needed. 
+
+As a result, you may find several tools in this repository that interact with Telegram bots to facilitate server management.
+
+---
+
+## Key Features
+
+- Tools for automated whitelist management using Google Sheets.
+- Proxy server player routing utilities.
+- Automation scripts for scaling and managing large Minecraft servers.
+- Telegram bot integrations for easier interaction and automation.
+
+---
+
+## How to Use
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/minecraft-server-tools.git
+   ```
+
+2. **Explore the Folders**:
+   Each folder contains tools with a detailed `guideline` markdown file explaining its purpose and usage.
+
+3. **Customize the Tools**:
+   Adapt the scripts and tools to fit your server's specific needs.
+
+4. **Integrate with Telegram**:
+   Follow the included instructions in tools designed for Telegram integration to connect with your bot.
+
+---
+
+## Contributing
+
+Contributions are welcome! If you have ideas, improvements, or new tools to add, feel free to open a pull request or submit an issue.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For questions or further assistance, feel free to contact me via GitHub or other communication channels listed in my profile.
