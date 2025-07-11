@@ -6,6 +6,8 @@ I developed these tools for specific purposes in one of my projects, so their us
 
 Each folder includes a complete description in a markdown file named `guideline`.
 
+![Banner](https://img.wattpad.com/c01c4dc6b2a6c3a74364c98721694cb15cf01b66/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f554939504a30646d5463706957773d3d2d3939373233373032352e313635323462396665653036643735643932353434393338353634372e676966?s=fit&w=720&h=720)
+
 ---
 
 ## Project Overview
@@ -42,7 +44,7 @@ As a result, you may find several tools in this repository that interact with Te
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/minecraft-server-tools.git
+   git clone https://github.com/AmirAM03/minecraft-server-tools.git
    ```
 
 2. **Explore the Folders**:
